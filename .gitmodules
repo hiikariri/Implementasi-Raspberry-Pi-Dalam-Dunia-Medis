@@ -1,0 +1,3 @@
+[submodule "external/HighPrecisionAD"]
+	path = external/HighPrecisionAD
+	url = https://github.com/waveshareteam/High-Pricision_AD_HAT.git
